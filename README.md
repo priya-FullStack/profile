@@ -1,5 +1,4 @@
-[![MasterHead](![image](https://github.com/user-attachments/assets/2170f330-c0f4-407e-a5ba-b6da1907652f)
-)]
+[![MasterHead](https://static.vecteezy.com/system/resources/thumbnails/022/328/336/original/isometric-desktop-computer-coding-programming-technology-programming-concept-technology-animation-transparent-background-with-alpha-channel-free-video.jpg)]
 <h1 align="center">Hi 👋, I'm Priya</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/selfportrait.gif">
